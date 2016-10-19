@@ -1,11 +1,22 @@
-# Team 1 Project 3 WDI 7: 'gitFit' (formerly Fitness ToDo-ish app)
+# Quickstart
+
+1. Clone repository `git clone https://github.com/benjaminwest1046/project3-fitness.git`
+* Change into repository `cd project3-fitness`
+* Install Node dependencies `npm install`
+* (Optional) Run the seeds file for some example users `node seeds.js` 
+ * For example see: user `test1@ga.co` with pw `test1234`
+* Run the Node Server `npm start`
+* Browse to the app at `localhost:3000`
+
+
+# Project 'gitFit' - Team 1, Project 3, WDI7
 
 This is the ReadMe for gitFit under development by Team 1 from WDI 7 comprised of:
 
->* [J Lovell](https://github.com/joshualyle)
-* [B Murrah](https://github.com/airbr)
-* [C Smith](https://github.com/coredelle)
-* [B West](https://github.com/benjaminwest1046)
+>* [Joshua Lovell](https://github.com/joshualyle)
+* [Morgan Murrah](https://github.com/airbr)
+* [Coredelle Smith](https://github.com/coredelle)
+* [Benjamin West](https://github.com/benjaminwest1046)
 
 
 #### Git Repository
@@ -39,13 +50,6 @@ This app utilizes the MEAN Stack including:
 * MongoDB (**M**EAN)
 * Toastr non-blocking notifications library
 
-#### Resources:
-
-
-
-#### Version updates:
-
-
 #### User Stories:
 
 Maryann is a attorney that always has a full schedule. She constantly tries to fit working out into her daily regimen, but with all of the paperwork she handles on a regular basis she finds it hard to keep track of the notebook that she writes her workouts in. Luckily for her, she found the gitFit web app. With gitFit, she can not only access her workouts from anywhere, but she can monitor the details of her workouts and check them off as they are completed. She can create and delete new goals at her leisure and no longer has to worry about that pesky notebook.
@@ -65,7 +69,7 @@ Charlamagne hates working out. He needs to work out because he was informed by h
 ![](public/pictures/screen-shot3.png)
 
 
+<!--
 
-
-#### Development notes:
+#### Development notes:-->
 
