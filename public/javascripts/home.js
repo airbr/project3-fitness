@@ -3,7 +3,7 @@ angular.module('myApp')
   template: `
   <div class="outer-parallax">
     <div class="parallax-container">
-    <div class="parallax"><img src="/images/2lkgFB8.jpeg" alt="parallax1"></div>
+    <div class="parallax"><img src="https://hd.unsplash.com/photo-1470919543690-22e21c13163d"></div>
   </div>
 
   <div class="section grey">
